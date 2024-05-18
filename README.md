@@ -1,16 +1,44 @@
-# Projeto-Fundamentos-Arq-Web
-# Desenvolvimento de uma Aplicação Web
+# PosGruacao-FullStack
+<h1 align="center">
+  💻<br>Portfólio - José Felipe
+</h1>
 
-Projeto criado para módulo de Fundamentos e Arquitetura Web da Pós em Desenvolvimento Web Full Stack da UNIPÊ.
 
-## 🚀 Começando
 
-Esse projeto é um desenvolvimento de uma aplicação web com a utilização de HTML, CSS e JavaScript.
+<h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
-### 📋 Pré-requisitos e Instalação
+## 📚 Seções
 
-Para o desenvolvivendo dessa aplicação web foi utilizado a Linguagem de Marcação-HTML, foi utilizado o CSS para fazer a estilização dos elementos e a Lingugaem de Programação JavaScript.
+O site é composto por seis seções:
 
-## ✒️ Autor
+- **Home:** Nele temos uma breve apresentação;
+- **Sobre:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
+- **Experiências:** Abordo algumas APIs que já desenvolvi;
+- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
+- **Contato:** Meus contatos
 
-* **José Felipe Alexandre Martins** - *Trabalho Inicial* - [José Felipe Alexandre Martins](https://github.com/felipealx1)
+---
+
+## 💼 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+- HTML;
+- CSS;
+- JavaScript;
+
+---
+
+<h2> Autor</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/felipealx1">
+        <sub>
+          <b>José Felipe Alexandre Martins</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
