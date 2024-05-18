@@ -220,7 +220,7 @@ body {
     flex-direction: column;
     position: relative;
 
-    background-image: url(/Portfólio/imagem/fundo3.jpg);
+    background-image: url(./imagem/fundo3.jpg);
     background-size: cover;
     background-position: top center;
 
